@@ -6,19 +6,19 @@ Airbnb delves into a comprehensive exploration of Airbnb data. Airbnb has revolu
 Table of Contents
 
 # Key Technologies and Skills
-Installation
-Usage
-Features
-Contributing
-License
-Contact
+* Installation
+* Usage
+* Features
+* Contributing
+* License
+* Contact
 
 # Key Technologies and Skills
-Python
-Pandas
-Streamlit
-Plotly
-Tableau
+* Python
+* Pandas
+* Streamlit
+* Plotly
+* Tableau
 Installation
 
 # To run this project, you need to install the following packages:
